@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82279094136",
+    "firebase_url": "https://clock-inontime-final.firebaseio.com",
+    "project_id": "clock-inontime-final",
+    "storage_bucket": "clock-inontime-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82279094136:android:aba0a1e6216baceda8da8d",
+        "android_client_info": {
+          "package_name": "com.example.clock_inontime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82279094136-khlsoinf1efsl0eb5q0ego9b6iak1dgs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clock_inontime",
+            "certificate_hash": "0265336f9a180e7afab92de206d75d07008adb73"
+          }
+        },
+        {
+          "client_id": "82279094136-8lnhs6rae2him945mlddq0m4sdup66je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqzyjDia6R17xy--WbZWf_Uw9YZk-3WOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82279094136-8lnhs6rae2him945mlddq0m4sdup66je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

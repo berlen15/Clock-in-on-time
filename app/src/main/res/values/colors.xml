@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#039BE5</color>
+    <color name="colorPrimaryDark">#247CB8</color>
+    <color name="colorBackground">#ECEFF1</color>
+    <color name="colorOrange">#FF8A65</color>
+    <color name="colorBlueDark">#4B738E</color>
+
+    <color name="colorAccent">#0D5D98</color>
+    <color name="cardViewColor">#ABCDE6</color>
+
+    <color name="cardViewHelp">#EFF7FF</color>
+    <color name="address">#2F7092</color>f
+    <color name="followers"></color>
+    <color name="headings">#3797CF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#67EFC8</color>
+    <color name="gradStart">#63C9FF</color>
+    <color name="followersBg">@color/cardViewColor</color>
+    <color name="followingBg">#49BEFF</color>
+    <color name="grey">#E5E5E5</color>
+    <color name="light_blue">#E3EEF5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="blueDividers">#6293D1</color>
+</resources>

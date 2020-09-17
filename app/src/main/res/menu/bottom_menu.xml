@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeFr"
+        android:icon="@drawable/ic_home"
+        android:title="Inicio" />
+
+    <item android:id="@+id/profileFr"
+        android:icon="@drawable/ic_person"
+        android:title="Perfil" />
+
+    <item android:id="@+id/timecardFr"
+        android:icon="@drawable/ic_calendar"
+        android:title="Fichajes" />
+
+    <item android:id="@+id/justifiesFr"
+        android:icon="@drawable/ic_justify"
+        android:title="Justificantes" />
+</menu>
