@@ -56,7 +56,6 @@ public class HelpActivity extends AppCompatActivity {
             Intent intent = new Intent(getApplication(), HelpActivity.class);
             startActivity(intent);
         }
-
         return super.onOptionsItemSelected(item);
     }
 }
