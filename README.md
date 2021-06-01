@@ -1,4 +1,4 @@
-# COTRepository
+# Clock-in on time
 
 COT (Clock-in On time) is an android application that allows employees of companies that provide services outside the workplace to clock in
 geolocated transfers using ther fingerprint.
